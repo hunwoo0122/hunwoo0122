@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
-##### Hi there 👋
+# Hi👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunwoo0122&layout=compact)](https://github.com/hunwoo0122/github-readme-stats)
 Line
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
