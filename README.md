@@ -21,7 +21,7 @@
 | **Category**       | **Technologies** |
 |--------------------|------------------|
 | **Backend**        | Java, Spring Boot, MySQL, MyBatis, Redis, JPA, JWT, Spring Security, OAuth |
-| **DevOps & Tools** | GitHub Actions, AWS, Docker,|
+| **DevOps & Tools** | GitHub Actions, AWS, Docker|
 
 ---
 
