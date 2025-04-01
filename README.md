@@ -41,7 +41,9 @@
 
 - **이메일**: phwoo1315@naver.com
 
-##🏅 Certifications
+---
+
+## 🏅 Certifications
 
 - 정보처리기사
 - SQLD
