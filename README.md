@@ -33,7 +33,5 @@
 
 ## 📫 Contact Me
 
-- **이메일**: jun109209@gmail.com
-- **블로그**: [jun10920.tistory.com](https://jun10920.tistory.com)
-- **LinkedIn**: [linkedin.com/in/jun10920](https://www.linkedin.com/in/jun10920)
+- **이메일**: phwoo1315@naver.com
 
