@@ -40,3 +40,8 @@
 ## 📫 Contact Me
 
 - **이메일**: phwoo1315@naver.com
+
+##🏅 Certifications
+
+- 정보처리기사
+- SQLD
