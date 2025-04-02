@@ -47,3 +47,6 @@
 
 - 정보처리기사 (2024. 09. 10)
 - SQLD
+
+## 
+2024.09 ~ 2025.03 SSG I&C BootCamp (Java Back-end)
